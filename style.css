@@ -1,0 +1,13 @@
+*{
+    background-color: black;
+}
+
+h1{
+    color: antiquewhite;
+    font-size: 80px;
+    text-align: center;
+    padding: 25px;
+    border: 2px solid red;
+    width: 80%;
+    align-items: center;
+}
