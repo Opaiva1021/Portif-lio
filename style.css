@@ -1,14 +1,10 @@
-*{
-    background-color: black;
+.abc{
+    background-image:linear-gradient(to right, #EADEDB 0%, #BC70A4 50%, #BFD641 75%);
 }
 
 h1{
-    color: antiquewhite;
-    font-size: 80px;
+    color: aliceblue;
     text-align: center;
     padding: 25px;
-    border: 2px solid red;
-    width: 80%;
-    align-items: center;
-    justify-content: s;
+    font-size: 50px;
 }
